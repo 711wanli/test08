@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "wanli-PC",
+    "children" : [ {
+      "name" : "7112-MainThread",
+      "children" : [ {
+        "name" : "TestDisplay.test_display_search",
+        "uid" : "22a9f3acc1368852",
+        "parentUid" : "2d1122246d8de5739fcc18c5d0e18b6e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1530450252995,
+          "stop" : 1530450253001,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2d1122246d8de5739fcc18c5d0e18b6e"
+    } ],
+    "uid" : "10169545f889add77aa987646bbbf9f9"
+  } ]
+}
