@@ -1,3 +1,5 @@
 [
-  "scripts/test_dispaly.py::TestDisplay::()::test_display_search"
+  "scripts/test_dispaly.py::TestDisplay::()::test_display_search",
+  "scripts/test_dispaly.py::TestDisplay::()::test_display_search1",
+  "scripts/test_dispaly.py::TestDisplay::()::test_display_search2"
 ]
